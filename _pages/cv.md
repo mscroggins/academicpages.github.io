@@ -231,7 +231,7 @@ Associate Blog Editor 2014
 
 Committee for the Anthropology of Science, Technology & Computing
 
-Peer Reviewer 
+Peer Reviewer
 
 Data Science Journal 2020
 
@@ -262,4 +262,3 @@ Southwestern Anthropological Association (SWAA)
 REFERENCES
 
 Upon Request
-
