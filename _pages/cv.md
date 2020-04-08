@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-MMICHAEL JASON SCROGGINS
+MICHAEL JASON SCROGGINS
 
 Department of Information Studies, UCLA GSE&IS
 
