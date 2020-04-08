@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-MICHAEL JASON SCROGGINS
+### MICHAEL JASON SCROGGINS
 
 Department of Information Studies, UCLA GSE&IS
 
 (559) 779-6313 • mscroggins@ucla.edu
 
-EDUCATION
+**EDUCATION**
 
 PhD in Anthropology and Education 2017
 
@@ -35,7 +35,7 @@ BA in Liberal Arts 1998
 
 The Evergreen State College, Olympia, WA
 
-ACADEMIC EMPLOYMENT
+**ACADEMIC EMPLOYMENT**
 
 Postdoctoral Researcher 2017 -- Present
 
@@ -43,9 +43,9 @@ Graduate School of Education and Information Studies,
 
 University of California Los Angeles, Los Angeles, CA
 
-PUBLICATIONS
+**PUBLICATIONS**
 
-Refereed Journal Articles
+**Refereed Journal Articles**
 
 Scroggins, Michael J., and Irene V. Pasquetto. "Labor Out of Place: On the Varieties and Valences of (In)visible Labor in Data-intensive Science." Engaging Science, Technology, and Society 6(2020): 111-132. 2020.
 
@@ -59,11 +59,9 @@ Borgman, Christine L., Morgan F. Wofford, Milena S. Golshan, Peter T. Darch, and
 
 Souleles, Daniel, and Michael J. Scroggins. "The Meanings of Production(s): Showbiz and Deep Plays in Finance and DIYbiology," Economy and Society 46: 82-102. 2017.
 
-Scroggins, Michael J. "Ignoring Ignorance: Notes on Pedagogical Relationships in Citizen Science."
+Scroggins, Michael J. "Ignoring Ignorance: Notes on Pedagogical Relationships in Citizen Science." Engaging Science, Technology, and Society 3(2017): 206--23. 2017.
 
-Engaging Science, Technology, and Society 3(2017): 206--23. 2017.
-
-Book Chapters
+**Book Chapters**
 
 Scroggins, Michael J., and Hervé H. Varenne. "Designing, Animating, and Repairing a Suitable Do-it-Yourself Biology Lab." In Educating in Life: Educational Theory and the Emergence of New Normals, edited by Varenne, H., 49-62. Routledge, 2019.
 
@@ -73,17 +71,17 @@ Topics and Methods, edited by Nahm, S. and Rinker, C. H., 65-78. Routledge, 2015
 
 Varenne, Hervé H., and Michael J. Scroggins. "Critique of the Culture of Poverty." In International Encyclopedia of the Social and Behavioral Sciences, 2nd edition, 590-595. Elsevier, 2015.
 
-Reports
+**Reports**
 
 Rijsberman, Marijke, and Michael J. Scroggins. "Good with Money: Getting By in Silicon Valley." Report on Payday Lending in Silicon Valley for the FAIR Money Collective, 2015.
 
 Delcore, Henry D., James Mullooly, and Michael J. Scroggins. "The Library Study at Fresno State." Technical Report for CSU Fresno Madden Library, 2009.
 
-Conference Proceedings
+**Conference Proceedings**
 
 Scroggins, Michael J. "Making Waiting Visible: Applying Anthropology to the Design of a New Restaurant Paging System." Proceedings of the Southwestern Anthropological Association, Volume 2: 132-137, 2008.
 
-Popular Publications
+**Popular Publications**
 
 Scroggins, Michael J. "DIYbio and the 'Hacking Metaphor.'" Biocoder Winter 2014: 11-12. 2014.
 
@@ -91,9 +89,9 @@ Scroggins, Michael J. "DIYbio and Human Subjects Research.'" Biocoder Spring 201
 
 Scroggins, Michael J. "DIYbio and the 'New FBI.'" Biocoder Fall 2013: 11-12. 2013.
 
-CONFERENCE PRESENTATIONS
+**CONFERENCE PRESENTATIONS**
 
-Invited
+**Invited**
 
 Scroggins, Michael J. ""How Should Innovation Work?" Copenhagen School of Business. The Copenhagen Business School Guide to Solving Problems Without Tunnel Vision. Copenhagen. October 2020.
 
@@ -103,7 +101,7 @@ Scroggins, Michael J. "Sorting Volunteers: Human Resources in the Transition fro
 
 Scroggins, Michael J., and Hervé H. Varenne. "Mead, Spindler, Kimball and Cremin: Notes Towards Tracing a Cross-continental and Trans-disciplinary Conversation." Conference on the Future of Anthropology in Schools of Education. New York, NY, 2013.
 
-Submitted
+**Submitted**
 
 Scroggins, Michael J. and Bernadette M. Boscoe. "Maintaining FITS: Some Lesson Learned From (and problems caused by) Long-term Software Maintenance." Maintainers iii. Washington D.C. 2019.
 
@@ -141,7 +139,7 @@ Scroggins, Michael J. "Hot and Cold Chronologies: Accommodating Student Taskscap
 
 Scroggins, Michael J., Aaron Meztler, Cynthia Lee, and Julio Alvarez. "The Wait Mate: An Interdisciplinary Perspective on Product Development." Interprofessional Projects Program. Chicago, IL, 2008.
 
-TALKS
+**TALKS**
 
 Scroggins, Michael J. "Stupid is OK: Design and Discontent in a "Garage Lab." Genspace. New York, NY, 2016.
 
@@ -151,87 +149,75 @@ Scroggins, Michael J., Henry D. Delcore and James Mullooly. "Discovering the Unk
 
 Scroggins, Michael J. and James Mullooly. "Technology, Liberation, and Productive Ignorance: Crossing the Rural Digital Divide with Jefferson's Moldboard of Least Resistance" Symposium on Life in the San Joaquin Valley. Fresno, CA, 2008.
 
-TEACHING EXPERIENCE
+**TEACHING EXPERIENCE**
 
 Instructor 2013 -- 2016
 
 School of Industrial Design, Academy of Art University, San Francisco, CA
 
-BFA Classes Taught
+**BFA Classes Taught**
 
 Anthropology: Experiencing Culture 2015
 
 Anthropology for Today's Artist 2015
 
-MFA Classes Taught
+**MFA Classes Taught**
 
 Industrial Design Workshop 2015 -- 2016
 
 MFA Thesis, Directed Study Forum 2014 -- 2016
 
-The Science of Design: Ethnographic Methods 2013 -- 2016
-
+The Science of Design:Ethnographic Methods 2013 -- 2016 <br>
 (Created in-person and online versions)
 
-PROFESSIONAL EXPERIENCE
+
+**PROFESSIONAL EXPERIENCE**
 
 Doctoral Researcher 2009 -- 2017
-
 Center for Everyday Education, Teachers College, Columbia University, New York, NY.
 
 Researcher 2015 -- 2015
-
 Pacific Institute for Research and Evaluation, Oakland, CA.
 
 Design Researcher 2012
-
 Sonic Rim, San Francisco, CA.
 
 Social Media Strategist 2009 -- 2013
-
 Social Science Research Council, New York, NY.
 
 Researcher 2008 -- 2009
-
 California State University Fresno Madden Library, Fresno, CA.
 
 Researcher 2007 -- 2009
-
 California State University Fresno Institute of Public Anthropology, Fresno, CA.
 
 Online Bookseller 2001- 2008
-
 Self-employed, Dinuba, CA.
 
 Sales 1999-2000
-
 Produce Equipment Technology, Reedley, CA.
 
-SERVICE
-
-Conference Organizer
-
-"Knowledge Infrastructures: A Research Agenda Workshop" 2020
-
-University of California, Los Angeles
-
-"Applying Anthropology" 2015
-
-Teachers College, Columbia University
-
-"On the Future of Anthropology in Schools of Education" 2013
-
-Teachers College, Columbia University
+**SERVICE**
 
 Outreach Manager 2015-2016
-
 Committee for the Anthropology of Science, Technology & Computing
 
 Associate Blog Editor 2014
-
 Committee for the Anthropology of Science, Technology & Computing
 
-Peer Reviewer
+**Conference Organizer**
+
+"Knowledge Infrastructures: A Research Agenda Workshop" 2020
+University of California, Los Angeles
+
+"Applying Anthropology" 2015
+Teachers College, Columbia University
+
+"On the Future of Anthropology in Schools of Education" 2013
+Teachers College, Columbia University
+
+
+**Peer Reviewer**
 
 Data Science Journal 2020
 
@@ -245,11 +231,11 @@ Information Research 2018-2019
 
 Student Anthropologist 2010
 
-COMPUTING SKILLS
+**COMPUTING SKILLS**
 
 Research Software: ArcGIS, Atlas.ti, Transana, Final Cut, AVID Media Composer, LaTeX, python
 
-PROFESSIONAL MEMBERSHIP
+**PROFESSIONAL MEMBERSHIP**
 
 Association for Information Science and Technology (ASIS&T)
 
@@ -259,6 +245,6 @@ American Anthropology Association (AAA)
 
 Southwestern Anthropological Association (SWAA)
 
-REFERENCES
+**REFERENCES**
 
 Upon Request
