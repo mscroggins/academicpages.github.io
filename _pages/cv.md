@@ -32,8 +32,8 @@ The Evergreen State College, Olympia, WA
 
 **ACADEMIC EMPLOYMENT**
 
-Postdoctoral Researcher 2017 -- Present
-Graduate School of Education and Information Studies,
+Postdoctoral Researcher 2017 -- Present  
+Graduate School of Education and Information Studies,  
 University of California Los Angeles, Los Angeles, CA
 
 **PUBLICATIONS**
@@ -144,65 +144,65 @@ Scroggins, Michael J. and James Mullooly. "Technology, Liberation, and Productiv
 
 **TEACHING EXPERIENCE**
 
-Instructor 2013 -- 2016
+Instructor 2013 -- 2016  
 School of Industrial Design, Academy of Art University, San Francisco, CA
 
 **BFA Classes Taught**
 
-Anthropology: Experiencing Culture 2015
+Anthropology: Experiencing Culture 2015  
 Anthropology for Today's Artist 2015
 
 **MFA Classes Taught**
 
-Industrial Design Workshop 2015 -- 2016
-MFA Thesis, Directed Study Forum 2014 -- 2016
-The Science of Design:Ethnographic Methods 2013 -- 2016 <br>
+Industrial Design Workshop 2015 -- 2016  
+MFA Thesis, Directed Study Forum 2014 -- 2016  
+The Science of Design:Ethnographic Methods 2013 -- 2016  
 (Created in-person and online versions)
 
 
 **PROFESSIONAL EXPERIENCE**
 
-Doctoral Researcher 2009 -- 2017
+Doctoral Researcher 2009 -- 2017  
 Center for Everyday Education, Teachers College, Columbia University, New York, NY.
 
-Researcher 2015 -- 2015
+Researcher 2015 -- 2015  
 Pacific Institute for Research and Evaluation, Oakland, CA.
 
-Design Researcher 2012
+Design Researcher 2012  
 Sonic Rim, San Francisco, CA.
 
-Social Media Strategist 2009 -- 2013
+Social Media Strategist 2009 -- 2013  
 Social Science Research Council, New York, NY.
 
-Researcher 2008 -- 2009
+Researcher 2008 -- 2009  
 California State University Fresno Madden Library, Fresno, CA.
 
-Researcher 2007 -- 2009
+Researcher 2007 -- 2009  
 California State University Fresno Institute of Public Anthropology, Fresno, CA.
 
-Online Bookseller 2001- 2008
+Online Bookseller 2001- 2008  
 Self-employed, Dinuba, CA.
 
-Sales 1999-2000
+Sales 1999-2000  
 Produce Equipment Technology, Reedley, CA.
 
 **SERVICE**
 
-Outreach Manager 2015-2016
+Outreach Manager 2015-2016  
 Committee for the Anthropology of Science, Technology & Computing
 
-Associate Blog Editor 2014
+Associate Blog Editor 2014  
 Committee for the Anthropology of Science, Technology & Computing
 
 **Conference Organizer**
 
-"Knowledge Infrastructures: A Research Agenda Workshop" 2020
+"Knowledge Infrastructures: A Research Agenda Workshop" 2020  
 University of California, Los Angeles
 
-"Applying Anthropology" 2015
+"Applying Anthropology" 2015  
 Teachers College, Columbia University
 
-"On the Future of Anthropology in Schools of Education" 2013
+"On the Future of Anthropology in Schools of Education" 2013  
 Teachers College, Columbia University
 
 
