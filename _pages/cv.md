@@ -21,13 +21,13 @@ PhD in Anthropology and Education 2017
 Teachers College, Columbia University, New York, NY  
 Dissertation: "Producing BioCurious: Design and Discontent in a 'Garage Lab'"
 
-MPhil in Anthropology and Education 2015
+MPhil in Anthropology and Education 2015  
 Teachers College, Columbia University, New York, NY
 
-MA in Anthropology and Education 2013
+MA in Anthropology and Education 2013  
 Teachers College, Columbia University, New York, NY
 
-BA in Liberal Arts 1998
+BA in Liberal Arts 1998  
 The Evergreen State College, Olympia, WA
 
 **ACADEMIC EMPLOYMENT**
