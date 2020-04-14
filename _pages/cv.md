@@ -17,8 +17,8 @@ Department of Information Studies, UCLA GSE&IS
 
 **EDUCATION**
 
-PhD in Anthropology and Education 2017
-Teachers College, Columbia University, New York, NY
+PhD in Anthropology and Education 2017  
+Teachers College, Columbia University, New York, NY  
 Dissertation: "Producing BioCurious: Design and Discontent in a 'Garage Lab'"
 
 MPhil in Anthropology and Education 2015
