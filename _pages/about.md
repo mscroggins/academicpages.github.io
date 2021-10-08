@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Test...test...test
+
 I am an Alfred P. Sloan Foundation funded postdoctoral researcher at the [Center for Knowledge Infrastructures][1], University of California, Los Angeles. I hold a PhD in [anthropology and education][2] from Teachers College, Columbia University, graduating in May 2017. I finished a BA in Liberal Arts at [The Evergreen State College][3]. I also spent some time as a bookseller.
 
 My research takes a critical and historical lens to the social organization of scientific and technical work, employing ethnographic methods augmented by material culture studies and interactional analysis. I have examined the organization and research program of [DIYbio laboratories][4], the relationship between [ignorance and pedagogy][5] in citizen science, the intersection of [biotech, finance, and late capitalism][6], the [(in)visible labor required by data-intensive science][7], and how seemingly mundane objects, such as file formats, can make scientific infrastructure (almost too) resilient. I have also written critically on the intellectual history of the [Culture of Poverty][8] thesis and its [reception within anthropology][9].
