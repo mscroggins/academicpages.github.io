@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Test...test...test
 
 I am an Alfred P. Sloan Foundation funded postdoctoral researcher at the [Center for Knowledge Infrastructures][1], University of California, Los Angeles. I hold a PhD in [anthropology and education][2] from Teachers College, Columbia University, graduating in May 2017. I finished a BA in Liberal Arts at [The Evergreen State College][3]. I also spent some time as a bookseller.
 
