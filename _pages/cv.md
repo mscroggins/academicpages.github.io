@@ -112,12 +112,12 @@ Sciences*, 2nd edition, 590-595. Elsevier, 2015.
 
 **Reports**
 
-Rijsberman, Marijke, and Michael J. Scroggins. "Good with Money: Getting
-By in Silicon Valley." Report on Payday Lending in Silicon Valley for
+Rijsberman, Marijke, and Michael J. Scroggins. ["Good with Money: Getting
+By in Silicon Valley."](https://github.com/mscroggins/academicwork/blob/master/files/fair-money_good-with-money-report_final_3-15-15.pdf) Report on Payday Lending in Silicon Valley for
 the FAIR Money Collective, 2015.
 
-Delcore, Henry D., James Mullooly, and Michael J. Scroggins. "The
-Library Study at Fresno State." Technical Report for CSU Fresno Madden
+Delcore, Henry D., James Mullooly, and Michael J. Scroggins.["The
+Library Study at Fresno State."](https://github.com/mscroggins/academicwork/blob/master/files/Delcore%2C%20Mullooly%2C%20Scroggins_2009_The%20Library%20Study%20at%20Fresno%20State_Unknown.pdf) Technical Report for CSU Fresno Madden
 Library, 2009.
 
 **Conference Proceedings**
