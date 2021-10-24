@@ -89,11 +89,11 @@ Society* 3(2017): 206--23. 2017.
 
 **Book Chapters**
 
-Scroggins, Michael J. "The Two Biocuriouses." In *People Before
+Scroggins, Michael J. ["The Two Biocuriouses."](https://github.com/mscroggins/academicwork/blob/master/files/PREPRINT%20%20Scroggins%20The%20Two%20Biocuriouses.pdf) In *People Before
 Markets*, edited by Souleles D. and Gersel J. (Forthcoming)
 
-Scroggins, Michael J and Daniel Souleles. "The Allure of Prizes: How
-Contests Trap us in Competitive Relationships." In *Competition: What it
+Scroggins, Michael J and Daniel Souleles. ["The Allure of Prizes: How
+Contests Trap us in Competitive Relationships."](https://github.com/mscroggins/academicwork/blob/master/files/PREPRINT%20The%20Allure%20of%20Compeition%20Scroggins%20and%20Souleles%20.pdf) In *Competition: What it
 is and Why it Happens*, edited by Arora-Jonsson, S., Brunsson, N.,
 Hasse, R., and Lagerström, K., 147-161. Oxford, 2021.
 
