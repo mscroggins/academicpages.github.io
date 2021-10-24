@@ -24,8 +24,8 @@ Angeles (UCLA)
 
 Teachers College, Columbia University, New York, NY
 
-Dissertation: "Producing BioCurious: Design and Discontent in a 'Garage
-Lab'"
+Dissertation: ["Producing BioCurious: Design and Discontent in a 'Garage
+Lab'"] (https://github.com/mscroggins/academicwork/blob/master/files/Scroggins_2017_%E2%80%9CThis%20Is%20a%20New%20Thing%20in%20the%20World%E2%80%9D.pdf)
 
 **MA in Anthropology and Education** 2013
 
@@ -60,31 +60,31 @@ Scroggins, Michael J., Peter T. Darch, and Bernadette M. Boscoe. "As the
 telescope turns: Introducing infrastructural cadence to the study of
 knowledge infrastructures." *Science & Technology Studies* (In Review)
 
-Scroggins, Michael J., and Irene V. Pasquetto. "Labor Out of Place: On
+Scroggins, Michael J., and Irene V. Pasquetto. ["Labor Out of Place: On
 the Varieties and Valences of (In)visible Labor in Data-intensive
-Science." *Engaging Science, Technology, and Society* 6(2020): 111-132.
+Science."] (https://github.com/mscroggins/academicwork/blob/master/files/Scroggins_Pasquetto_2020_Labor%20Out%20of%20Place.pdf) *Engaging Science, Technology, and Society* 6(2020): 111-132.
 2020.
 
-Scroggins, Michael J. and Bernadette M. Boscoe. "Once FITS, Always FITS?
-Astronomical Infrastructure in Transition." *IEEE Annals of the History
+Scroggins, Michael J. and Bernadette M. Boscoe. ["Once FITS, Always FITS?
+Astronomical Infrastructure in Transition."] (https://github.com/mscroggins/academicwork/blob/master/files/2020_Once%20FITS%2C%20Always%20FITS.pdf) *IEEE Annals of the History
 of Computing* 42(2): 42-54. 2020.
 
-Scroggins, Michael J. "Poverty and the Savage Slot." *Diaspora,
+Scroggins, Michael J. ["Poverty and the Savage Slot."] (https://github.com/mscroggins/academicwork/blob/master/files/PREPRINT%20Poverty%20and%20the%20savage%20slot.pdf) *Diaspora,
 Indigenous, and Minority Education: An International Journal* 14(2):
 70-74. 2020.
 
 Scroggins, Michael J., Irene V. Pasquetto, R. Stuart Geiger, Bernadette
 M. Boscoe, Peter T. Darch, Charlotte Cabasse-Mazel, Cheryl Thompson,
-Milena S. Golshan, and Christine L. Borgman**. "**Thorny Problems in
-Data (-intensive) Science." *Communications of the ACM* 63(8): 30-32.
+Milena S. Golshan, and Christine L. Borgman**. ["Thorny Problems in
+Data (-intensive) Science."] (https://github.com/mscroggins/academicwork/blob/master/files/Scroggins%20et%20al.%20-%202020%20-%20Thorny%20problems%20in%20data%20(-intensive)%20science.pdf) *Communications of the ACM* 63(8): 30-32.
 2020.
 
-Souleles, Daniel, and Michael J. Scroggins. "The Meanings of
-Production(s): Showbiz and Deep Plays in Finance and DIYbiology,"
+Souleles, Daniel, and Michael J. Scroggins. ["The Meanings of
+Production(s): Showbiz and Deep Plays in Finance and DIYbiology,"] (https://github.com/mscroggins/academicwork/blob/master/files/Souleles_Scroggins_2017_The%20meanings%20of%20production(s).pdf)
 *Economy and Society* 46(1): 82-102. 2017.
 
-Scroggins, Michael J. "Ignoring Ignorance: Notes on Pedagogical
-Relationships in Citizen Science." *Engaging Science, Technology, and
+Scroggins, Michael J. ["Ignoring Ignorance: Notes on Pedagogical
+Relationships in Citizen Science."] (https://github.com/mscroggins/academicwork/blob/master/files/Scroggins_2017_Ignoring%20Ignorance.pdf) *Engaging Science, Technology, and
 Society* 3(2017): 206--23. 2017.
 
 **Book Chapters**
@@ -102,12 +102,12 @@ Repairing a Suitable Do-it-Yourself Biology Lab." In *Educating in Life:
 Educational Theory and the Emergence of New Normals*, edited by Varenne,
 H., 49-62. Routledge, 2019.
 
-Scroggins, Michael J. "The FAIR Money Collective." In *Applied
+Scroggins, Michael J. ["The FAIR Money Collective."] (https://github.com/mscroggins/academicwork/blob/master/files/%5BSheena_Nahm%2C_Cortney_Hughes_Rinker%5D_Applied_Anthr(bookzz.org).pdf) In *Applied
 Anthropology: Unexpected Spaces, Topics and Methods,* edited by Nahm, S.
 and Rinker, C. H., 65-78. Routledge, 2015.
 
-Varenne, Hervé H., and Michael J. Scroggins. "Critique of the Culture of
-Poverty." In *International Encyclopedia of the Social and Behavioral
+Varenne, Hervé H., and Michael J. Scroggins. ["Critique of the Culture of
+Poverty."] (https://github.com/mscroggins/academicwork/blob/master/files/Varenne%20and%20Scroggins%20-%202015%20-%20Culture%20of%20Poverty%20Critique.pdf) In *International Encyclopedia of the Social and Behavioral
 Sciences*, 2nd edition, 590-595. Elsevier, 2015.
 
 **Reports**
