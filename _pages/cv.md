@@ -24,7 +24,7 @@ Angeles (UCLA)
 
 Teachers College, Columbia University, New York, NY
 
-Dissertation: ["Producing BioCurious: Design and Discontent in a 'Garage
+Dissertation: ["This Is a New Thing in the World: Design and Discontent in the Making of a 'Garage
 Lab'"](https://github.com/mscroggins/academicwork/blob/master/files/Scroggins_2017_%E2%80%9CThis%20Is%20a%20New%20Thing%20in%20the%20World%E2%80%9D.pdf)
 
 **MA in Anthropology and Education** 2013
